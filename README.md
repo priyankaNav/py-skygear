@@ -52,7 +52,7 @@ echo "{}" | py-skygear sample.py --subprocess timer plugin.generate_monthly_repo
 Or you may run a long running process that hook with your own skygear-serve
 instance.
 
-Create a database named skygear with user/owner other then root.
+* Create a database named ```skygear``` with user/owner `other then` root.
 
 * For ZeroMQ
 ```
